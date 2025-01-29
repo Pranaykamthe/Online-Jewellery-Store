@@ -1,4 +1,4 @@
-How to run the Jewelery Shop Management System (JSMS) Project
+How to run the Online Jewellery Store Project
 
 1. Download the  zip file
 
